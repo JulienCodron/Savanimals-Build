@@ -1,2 +1,2 @@
-# SavanaDropBuild
- Last build of SavanaDrop a litle game i develope inspired from Suika game.
+# SavanimalsBuilds
+ Last build of Savanimals 🦁 a litle game i develope inspired from Suika game. 🍉

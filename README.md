@@ -1,4 +1,4 @@
 # SavanimalsBuilds
- Last build of Savanimals 🦁 a litle game i develope inspired from Suika game. 🍉
+Last build of Savanimals 🦁, a little game I developed inspired by Suika Game. 🍉
 
-You can try it by downloading all the files then lunch Savanimals.exe
+You can try it by downloading all the files and then launching Savanimals.exe.
